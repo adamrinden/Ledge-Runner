@@ -1,0 +1,13 @@
+While the final result isn't exactly what I was looking for, I am proud of what is basically my first real game.
+
+This version keeps the original spirit of the design document, get to the top of the building. At that's still true with this version.
+
+I decided to stick to strictly keyboard controls instead of supporting controller too. I wanted to keep things simple.
+
+I played around with running up wall, but It didn't feel right. I also played around with a double jump, but that didn't feel right either. I ended up with a wall jumping and sliding down that I think feels good.
+
+I got sound effects that feel nice and I made cool 8 bit art that's limited to the NES color palette. I'm happy with the results.
+
+Like I thought, getting the feeling right was challenging.
+
+Other than the wall running mechanic, I think it pretty much keeps the original vision of the design document.
